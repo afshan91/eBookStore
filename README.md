@@ -1,4 +1,4 @@
 # eBookStore
-This is <b>first<b> project
+This is <b>first</b> project
 <br>
 Afshan Meher
